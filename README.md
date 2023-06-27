@@ -14,7 +14,7 @@
 
 <br>
 
-- Estudando Desenvolvimento Front End em @devemdobro :robot:
+- Estudando Desenvolvimento Front End :robot:
 - Aprendendo Inglês e Russo :us::ru:
 - Alguns Hobbies: Ouvir Música :radio: - Ler Livros :book: - Acampar :tent:
 
